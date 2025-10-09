@@ -17,6 +17,8 @@ This analysis uses the [Spotify Most Streamed Songs dataset](https://www.kaggle.
 ## Key Findings
 - Spotify holds the largest number of streams, suggesting the platform's reach naturally leads to a wider audience
 - Popular streamed songs predominantly come from the 2000s onwards, aligning with when music streaming grew in popularity
+- Taylor Swift and The Weeknd were very popular streaming artists with 34 and 22 songs respectively in the dataset
+- At the moment, there isn't a clear correlation between playlist/chart prevelance and stream counts though this may change with further analysis
 
 ## Technologies Used
 - Python
